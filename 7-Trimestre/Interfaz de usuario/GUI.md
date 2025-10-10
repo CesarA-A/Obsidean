@@ -1,0 +1,2 @@
+
+Por sus significado en ingles Graphical User Interface esto ya tiene una interfaz para que la mayoría de las personas puedan usar es decir no necesitan conocimiento técnico, en donde una ventana ya tiene todos los elementos del software, ya se puede utilizar  el ratón y el teclado.
