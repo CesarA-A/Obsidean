@@ -38,3 +38,16 @@ git config --global core.autocrlf input
 
 # Ver configuración
 git config --global --list
+
+
+```bash
+
+|Comando|Para qué sirve|
+|---|---|
+|`git status`|Ver archivos modificados|
+|`git add .`|Preparar archivos para commit|
+|`git commit -m "mensaje"`|Guardar cambios localmente|
+|`git push origin main`|Subir cambios a GitHub|
+|`git pull origin main`|Traer cambios de GitHub|
+```
+
