@@ -21,7 +21,7 @@ Para poder ver los colores se usan los bastones y conos, una vez que ya los dete
 
 Primero vemos el objeto después lo invertimos ahora entran los conos y bastones para después  procesar la imagen.
 
-
+También tiene que ver la **piel** ya que esta nos permite sentir cosas y percibir las cosas que nos rodean. [[Piel]]  
 ## Brillo
 Es la **intensidad** de luz que emite o refleja una superficie.
 

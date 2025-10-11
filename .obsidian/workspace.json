@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ULA/Aprendizaje Profundo y Redes Neuronales/Introducción DL.md",
+                "file": "GIT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introducción DL"
+              "title": "GIT"
             }
           }
         ]
@@ -183,17 +183,20 @@
   },
   "active": "2ae06cb8ad443eb1",
   "lastOpenFiles": [
+    "7-Trimestre/Interfaz de usuario/Piel.md",
+    "7-Trimestre/Introducion a redes computacionales/Introducción  a las redes.md",
+    "7-Trimestre/Introducion a redes computacionales/Señales.md",
+    "7-Trimestre/Interfaz de usuario/Aspectos humanos y tecnologia.md",
+    "7-Trimestre/Interfaz de usuario/Conferencia Paul.md",
+    "GIT.md",
     "ULA/Aprendizaje Profundo y Redes Neuronales/Introducción DL.md",
     "7-Trimestre/Desarrollo a Gran Escala/Proceso unificado.md",
     "7-Trimestre/Desarrollo a Gran Escala/Modelo de dominio.md",
-    "7-Trimestre/Introducion a redes computacionales/Introducción  a las redes.md",
-    "7-Trimestre/Introducion a redes computacionales/Señales.md",
     "Sin título.md",
     "7-Trimestre/Sistemas Distribuidos/Servicios distribuidos básicos.md",
     "7-Trimestre/Introducion a redes computacionales",
     "7-Trimestre/Sistemas Distribuidos/Elementos de una aplicación distribuida.md",
     "7-Trimestre/Interfaz de usuario/Dilema de las redes sociales.md",
-    "7-Trimestre/Interfaz de usuario/Aspectos humanos y tecnologia.md",
     "7-Trimestre/Interfaz de usuario/Introducion.md",
     "7-Trimestre/Interfaz de usuario/GUI.md",
     "7-Trimestre/Interfaz de usuario/CLI.md",
@@ -216,9 +219,6 @@
     "7-Trimestre/Desarrollo a Gran Escala",
     "2025-10-03.md",
     "Sin título.canvas",
-    "2025-08-25.md",
-    "Sin título 2.base",
-    "cree un enlace.md",
-    "Bienvenido.md"
+    "Sin título 2.base"
   ]
 }
