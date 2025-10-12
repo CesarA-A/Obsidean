@@ -39,9 +39,6 @@ git config --global core.autocrlf input
 # Ver configuración
 git config --global --list
 
-
-```bash
-
 |Comando|Para qué sirve|
 |---|---|
 |`git status`|Ver archivos modificados|
