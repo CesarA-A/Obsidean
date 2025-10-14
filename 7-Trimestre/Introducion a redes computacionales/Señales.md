@@ -49,7 +49,7 @@ Esto es de punto a punto
 
 # Introducción a las redes
 
-Es la interconexión de mas de dos elementos. Una red consiste de un cierto numero de dispositivos autónomos.
+Es la interconexión de mas de dos elementos. Una red consiste de un cierto numero de dispositivos autónomos. Además de esto cada capa necesita tener sus protocolos [[Modelos de referencia]]
 
 - Presentación/Formato de mensajes
 - Seguridad

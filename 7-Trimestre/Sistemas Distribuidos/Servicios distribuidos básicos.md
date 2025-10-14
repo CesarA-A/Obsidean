@@ -32,3 +32,4 @@ Diferencias:
 
 [[Elementos de una aplicación distribuida]]
 
+[[Memoria Distribuida Compartida]]
