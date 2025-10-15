@@ -47,4 +47,3 @@ git config --global --list
 |`git push origin main`|Subir cambios a GitHub|
 |`git pull origin main`|Traer cambios de GitHub|
 ```
-

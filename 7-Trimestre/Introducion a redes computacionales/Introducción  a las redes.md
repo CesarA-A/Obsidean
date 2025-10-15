@@ -106,4 +106,6 @@ La atenuación disminuye la amplitud de la señal y la distorsión (desfasa)
 # Medio de transmisión 
 
 
+Existe un estándar para la creación de las arquitectas de redes las cuales se llaman [[Modelos de referencia]]
 
+Ademas de eso cada una de esas debe tener
