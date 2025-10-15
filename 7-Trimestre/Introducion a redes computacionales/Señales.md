@@ -18,7 +18,7 @@ Es multiplicar una señal por otra señal senoidal, en donde ambas se junta,
 Reduce su frecuencia y también en ancho de banda.
 
 ## Modulación por desplazamiento en fase
-Que la informacion se pueda ingresar dentro de un cable de menor tamaño que la informacion.Cambiar algunas de las propiedades de  las señales.
+Que la información se pueda ingresar dentro de un cable de menor tamaño que la información .Cambiar algunas de las propiedades de  las señales.
 
 **Propiedades de las señales**
 - Amplitud

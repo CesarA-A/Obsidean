@@ -30,7 +30,7 @@ Multiplexar :Para atender diversas aplicaciones, para canalizar los datos para e
 	- Sin información
 
 ## Protocolo y servicios
-
+[[Protocolos]]
 - Los servicios son las primitivas u operaciones.
 - Solo así arriba (una capa arriba)
 - Protocolos son las reglas de comunicación entre capas.
