@@ -11,7 +11,6 @@ Git es un **sistema de control de versiones distribuido** que permite:
 Git es diferente de GitHub. **Git** es la herramienta local y **GitHub** es un servicio remoto para almacenar repositorios.
 
 ---
-
 ## Conceptos clave
 
 - **Repositorio (repo):** Carpeta que Git controla.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT.md",
+                "file": "7-Trimestre/Sistemas Distribuidos/16 Octubre 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GIT"
+              "title": "16 Octubre 2025"
             }
           }
         ]
@@ -183,10 +183,13 @@
   },
   "active": "2ae06cb8ad443eb1",
   "lastOpenFiles": [
-    "7-Trimestre/Sistemas Distribuidos/Linda 1.md",
-    "7-Trimestre/Sistemas Distribuidos/Linda 2.md",
-    "GIT.md",
+    "7-Trimestre/Introducion a redes computacionales/Protocolos.md",
+    "7-Trimestre/Sistemas Distribuidos/16 Octubre 2025.md",
+    "7-Trimestre/Introducion a redes computacionales/Señales.md",
     "7-Trimestre/Sistemas Distribuidos/Memoria Distribuida Compartida.md",
+    "7-Trimestre/Sistemas Distribuidos/Linda 2.md",
+    "7-Trimestre/Sistemas Distribuidos/Linda 1.md",
+    "GIT.md",
     "7-Trimestre/Introducion a redes computacionales/Modelos de referencia.md",
     "7-Trimestre/Introducion a redes computacionales/Capa fisica.md",
     "7-Trimestre/Interfaz de usuario/Piel.md",
@@ -195,7 +198,6 @@
     "7-Trimestre/Desarrollo a Gran Escala/Proceso unificado.md",
     "7-Trimestre/Desarrollo a Gran Escala/Modelo de dominio.md",
     "7-Trimestre/Introducion a redes computacionales/Introducción  a las redes.md",
-    "7-Trimestre/Introducion a redes computacionales/Señales.md",
     "Sin título.md",
     "7-Trimestre/Sistemas Distribuidos/Servicios distribuidos básicos.md",
     "7-Trimestre/Introducion a redes computacionales",
@@ -211,8 +213,6 @@
     "7-Trimestre/Interfaz de usuario/BCI.md",
     "7-Trimestre/Interfaz de usuario/PUI.md",
     "7-Trimestre/Interfaz de usuario/NUI.md",
-    "7-Trimestre/Interfaz de usuario/TUI_T.md",
-    "7-Trimestre/Interfaz de usuario/TUI.md",
     "Sin título 1.base",
     "ULA/POTTENCIA",
     "ULA/Aprendizaje Profundo y Redes Neuronales",
