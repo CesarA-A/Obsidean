@@ -25,13 +25,18 @@
             "id": "2d39b496144cd0a4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "7-Trimestre/Interfaz de usuario/Sin título.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sin título"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,16 +197,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4742fd1861ac2247",
+  "active": "2d39b496144cd0a4",
   "lastOpenFiles": [
-    "7-Trimestre/Introducion a redes computacionales/Examen 1.md",
     "Sin título.png",
+    "7-Trimestre/Interfaz de usuario/Sin título.md",
+    "7-Trimestre/Introducion a redes computacionales/23 Octubre 2025.md",
+    "GIT.md",
+    "7-Trimestre/Introducion a redes computacionales/Examen 1.md",
     "Sin título.canvas",
     "Sin título.base",
     "7-Trimestre/Desarrollo a Gran Escala/20 Octubre 2025.md",
-    "GIT.md",
     "0005-10-23.md",
-    "7-Trimestre/Introducion a redes computacionales/23 Octubre 2025.md",
     "7-Trimestre/Introducion a redes computacionales/Ethernet.md",
     "7-Trimestre/Interfaz de usuario/VUI.md",
     "2035-10-21.md",
@@ -222,7 +228,6 @@
     "ULA/Aprendizaje Profundo y Redes Neuronales/Introducción DL.md",
     "7-Trimestre/Desarrollo a Gran Escala/Proceso unificado.md",
     "7-Trimestre/Desarrollo a Gran Escala/Modelo de dominio.md",
-    "7-Trimestre/Introducion a redes computacionales/Introducción  a las redes.md",
     "7-Trimestre/Introducion a redes computacionales",
     "7-Trimestre",
     "7-Trimestre/Sistemas Distribuidos",
