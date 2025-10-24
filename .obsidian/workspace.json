@@ -13,22 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7-Trimestre/Introducion a redes computacionales/Ethernet.md",
+                "file": "GIT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ethernet"
+              "title": "GIT"
             }
           },
           {
-            "id": "fa903a465053272b",
+            "id": "2d39b496144cd0a4",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -54,7 +54,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -182,25 +182,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "4742fd1861ac2247",
   "lastOpenFiles": [
-    "7-Trimestre/Interfaz de usuario/VUI.md",
+    "7-Trimestre/Introducion a redes computacionales/Examen 1.md",
+    "Sin título.png",
+    "Sin título.canvas",
+    "Sin título.base",
+    "7-Trimestre/Desarrollo a Gran Escala/20 Octubre 2025.md",
+    "GIT.md",
+    "0005-10-23.md",
+    "7-Trimestre/Introducion a redes computacionales/23 Octubre 2025.md",
     "7-Trimestre/Introducion a redes computacionales/Ethernet.md",
+    "7-Trimestre/Interfaz de usuario/VUI.md",
     "2035-10-21.md",
     "Untitled.md",
     "7-Trimestre/Sistemas Distribuidos/Servicios distribuidos básicos.md",
     "Templates/Clases UAM.md",
-    "GIT.md",
     "Templates",
     "7-Trimestre/Sistemas Distribuidos/16 Octubre 2025.md",
     "7-Trimestre/Introducion a redes computacionales/Protocolos.md",
@@ -216,20 +223,13 @@
     "7-Trimestre/Desarrollo a Gran Escala/Proceso unificado.md",
     "7-Trimestre/Desarrollo a Gran Escala/Modelo de dominio.md",
     "7-Trimestre/Introducion a redes computacionales/Introducción  a las redes.md",
-    "Sin título.md",
     "7-Trimestre/Introducion a redes computacionales",
-    "7-Trimestre/Sistemas Distribuidos/Elementos de una aplicación distribuida.md",
-    "7-Trimestre/Interfaz de usuario/Dilema de las redes sociales.md",
-    "7-Trimestre/Interfaz de usuario/Aspectos humanos y tecnologia.md",
-    "7-Trimestre/Interfaz de usuario/Introducion.md",
     "7-Trimestre",
     "7-Trimestre/Sistemas Distribuidos",
-    "Sin título.base",
     "Sin título 1.base",
     "ULA/POTTENCIA",
     "ULA/Aprendizaje Profundo y Redes Neuronales",
     "ULA",
-    "7-Trimestre/Desarrollo a Gran Escala",
-    "Sin título.canvas"
+    "7-Trimestre/Desarrollo a Gran Escala"
   ]
 }
