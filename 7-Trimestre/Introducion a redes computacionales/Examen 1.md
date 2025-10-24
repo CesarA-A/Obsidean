@@ -36,7 +36,7 @@ Fuente -> Transmisor -> Medio de transmisión -> Receptor -> Destino
 
 1. **Simplex**:Solamente va a una dirección.
 2. **Half-Duplex**: Va a hacia ambas direcciones pero solamente una a la vez.
-3. **Full-Duplex**:Comunicación simultanea en ambas direcciones.
+	1. **Full-Duplex**:Comunicación simultanea en ambas direcciones.
 
 ## Transmisión
 
