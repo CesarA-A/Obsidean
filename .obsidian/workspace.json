@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7-Trimestre/Sistemas Distribuidos/Examen 1.md",
+                "file": "7-Trimestre/Introducion a redes computacionales/23 Octubre 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Examen 1"
+              "title": "23 Octubre 2025"
             }
           },
           {
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "11e1167764c6ee23",
@@ -194,14 +193,18 @@
   },
   "active": "4742fd1861ac2247",
   "lastOpenFiles": [
+    "7-Trimestre/Introducion a redes computacionales/Introducción  a las redes.md",
+    "7-Trimestre/Introducion a redes computacionales/Modelos de referencia.md",
+    "7-Trimestre/Introducion a redes computacionales/TCP.md",
+    "7-Trimestre/Sistemas Distribuidos/Examen 1.md",
+    "7-Trimestre/Introducion a redes computacionales/23 Octubre 2025.md",
+    "Templates/Clases UAM.md",
     "7-Trimestre/Desarrollo a Gran Escala/20 Octubre 2025.md",
     "Sin título.png.md",
     "7-Trimestre/Introducion a redes computacionales/Examen 1.md",
-    "7-Trimestre/Sistemas Distribuidos/Examen 1.md",
     "GIT.md",
     "7-Trimestre/Interfaz de usuario/Sin título.md",
     "Sin título.png",
-    "7-Trimestre/Introducion a redes computacionales/23 Octubre 2025.md",
     "Sin título.canvas",
     "Sin título.base",
     "0005-10-23.md",
@@ -210,7 +213,6 @@
     "2035-10-21.md",
     "Untitled.md",
     "7-Trimestre/Sistemas Distribuidos/Servicios distribuidos básicos.md",
-    "Templates/Clases UAM.md",
     "Templates",
     "7-Trimestre/Sistemas Distribuidos/16 Octubre 2025.md",
     "7-Trimestre/Introducion a redes computacionales/Protocolos.md",
@@ -218,12 +220,9 @@
     "7-Trimestre/Sistemas Distribuidos/Memoria Distribuida Compartida.md",
     "7-Trimestre/Sistemas Distribuidos/Linda 2.md",
     "7-Trimestre/Sistemas Distribuidos/Linda 1.md",
-    "7-Trimestre/Introducion a redes computacionales/Modelos de referencia.md",
     "7-Trimestre/Introducion a redes computacionales/Capa fisica.md",
     "7-Trimestre/Interfaz de usuario/Piel.md",
     "7-Trimestre/Interfaz de usuario/Conferencia Paul.md",
-    "ULA/Aprendizaje Profundo y Redes Neuronales/Introducción DL.md",
-    "7-Trimestre/Desarrollo a Gran Escala/Proceso unificado.md",
     "7-Trimestre/Introducion a redes computacionales",
     "7-Trimestre",
     "7-Trimestre/Sistemas Distribuidos",

@@ -30,8 +30,8 @@ Es un modelo que se enfoca en la coordinacion entre procesos recurrentes o distr
 El **espacio de tuplas** es como tener una bolsa que contiene tuplas, en donde cada procesos hace operaciones con ellas.
 
 >[!NOTE] Operaciones
->OUT: Sacar tuplas
->IN: Meter tuplas
+>OUT: Sacar/meter tuplas
+>IN: Meter/eliminar tuplas
 >RD: Buscar tuplas
 
 **Caracterización y problemática**
