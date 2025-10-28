@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "a8d01e2b3aa9ede4",
+    "type": "split",
+    "children": [
+      {
+        "id": "596b63937a919c04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4742fd1861ac2247",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7-Trimestre/Sistemas Distribuidos/Examen 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Examen 1"
+            }
+          },
+          {
+            "id": "2d39b496144cd0a4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a3065824d3c9902a",
+    "type": "split",
+    "children": [
+      {
+        "id": "62b01b2794f904d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac6ec3c77278021d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "232eb34bb2c0e2f5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c0b9a89c86bbdd5a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "11e1167764c6ee23",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f78246e85bd8b44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a849a8c7177f6bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Interfaz de usuario/Seminario.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Seminario"
+            }
+          },
+          {
+            "id": "1831d659bdd4e78a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bienvenido.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Bienvenido"
+            }
+          },
+          {
+            "id": "dd0937396ca2da2c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "5a8d324d1dda60ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Interfaz de usuario/Seminario.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Seminario"
+            }
+          },
+          {
+            "id": "c3e8ecadd8305f85",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "4742fd1861ac2247",
+  "lastOpenFiles": [
+    "7-Trimestre/Desarrollo a Gran Escala/20 Octubre 2025.md",
+    "Sin título.png.md",
+    "7-Trimestre/Introducion a redes computacionales/Examen 1.md",
+    "7-Trimestre/Sistemas Distribuidos/Examen 1.md",
+    "GIT.md",
+    "7-Trimestre/Interfaz de usuario/Sin título.md",
+    "Sin título.png",
+    "7-Trimestre/Introducion a redes computacionales/23 Octubre 2025.md",
+    "Sin título.canvas",
+    "Sin título.base",
+    "0005-10-23.md",
+    "7-Trimestre/Introducion a redes computacionales/Ethernet.md",
+    "7-Trimestre/Interfaz de usuario/VUI.md",
+    "2035-10-21.md",
+    "Untitled.md",
+    "7-Trimestre/Sistemas Distribuidos/Servicios distribuidos básicos.md",
+    "Templates/Clases UAM.md",
+    "Templates",
+    "7-Trimestre/Sistemas Distribuidos/16 Octubre 2025.md",
+    "7-Trimestre/Introducion a redes computacionales/Protocolos.md",
+    "7-Trimestre/Introducion a redes computacionales/Señales.md",
+    "7-Trimestre/Sistemas Distribuidos/Memoria Distribuida Compartida.md",
+    "7-Trimestre/Sistemas Distribuidos/Linda 2.md",
+    "7-Trimestre/Sistemas Distribuidos/Linda 1.md",
+    "7-Trimestre/Introducion a redes computacionales/Modelos de referencia.md",
+    "7-Trimestre/Introducion a redes computacionales/Capa fisica.md",
+    "7-Trimestre/Interfaz de usuario/Piel.md",
+    "7-Trimestre/Interfaz de usuario/Conferencia Paul.md",
+    "ULA/Aprendizaje Profundo y Redes Neuronales/Introducción DL.md",
+    "7-Trimestre/Desarrollo a Gran Escala/Proceso unificado.md",
+    "7-Trimestre/Introducion a redes computacionales",
+    "7-Trimestre",
+    "7-Trimestre/Sistemas Distribuidos",
+    "Sin título 1.base",
+    "ULA/POTTENCIA",
+    "ULA/Aprendizaje Profundo y Redes Neuronales",
+    "ULA",
+    "7-Trimestre/Desarrollo a Gran Escala"
+  ]
+}
