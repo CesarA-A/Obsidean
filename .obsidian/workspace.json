@@ -1,20 +1,34 @@
 {
   "main": {
-    "id": "5f77c0bc5c9f635a",
+    "id": "a8d01e2b3aa9ede4",
     "type": "split",
     "children": [
       {
-        "id": "ab8f2eed125622a5",
+        "id": "596b63937a919c04",
         "type": "tabs",
         "children": [
           {
-            "id": "ed351c03b63b5704",
+            "id": "4742fd1861ac2247",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "7-Trimestre/Introducion a redes computacionales/23 Octubre 2025.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "23 Octubre 2025"
+            }
+          },
+          {
+            "id": "2d39b496144cd0a4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -23,15 +37,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5ebf567bf67342d7",
+    "id": "a3065824d3c9902a",
     "type": "split",
     "children": [
       {
-        "id": "bd0a018739587509",
+        "id": "62b01b2794f904d3",
         "type": "tabs",
         "children": [
           {
-            "id": "b497d204f367f81d",
+            "id": "ac6ec3c77278021d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -40,11 +54,11 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
-            "id": "9deb1e28649eab3a",
+            "id": "232eb34bb2c0e2f5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,13 +75,13 @@
             }
           },
           {
-            "id": "99d823a26cd92a3b",
+            "id": "c0b9a89c86bbdd5a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Marcadores"
             }
           }
         ]
@@ -77,19 +91,20 @@
     "width": 300
   },
   "right": {
-    "id": "d1df9fe5b06894ea",
+    "id": "11e1167764c6ee23",
     "type": "split",
     "children": [
       {
-        "id": "2f77e107f64ef9c5",
+        "id": "2f78246e85bd8b44",
         "type": "tabs",
         "children": [
           {
-            "id": "ea7108b457b45273",
+            "id": "2a849a8c7177f6bf",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Interfaz de usuario/Seminario.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,24 +114,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Enlaces entrantes de Seminario"
             }
           },
           {
-            "id": "0990fd05216a0e9b",
+            "id": "1831d659bdd4e78a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Bienvenido.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Enlaces salientes de Bienvenido"
             }
           },
           {
-            "id": "51d96fcd28f03193",
+            "id": "dd0937396ca2da2c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -127,24 +143,36 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Etiquetas"
             }
           },
           {
-            "id": "810f09c339cb2c49",
+            "id": "5a8d324d1dda60ce",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Interfaz de usuario/Seminario.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Esquema de Seminario"
+            }
+          },
+          {
+            "id": "c3e8ecadd8305f85",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -153,16 +181,55 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ed351c03b63b5704",
-  "lastOpenFiles": []
+  "active": "4742fd1861ac2247",
+  "lastOpenFiles": [
+    "7-Trimestre/Introducion a redes computacionales/Introducción  a las redes.md",
+    "7-Trimestre/Introducion a redes computacionales/Modelos de referencia.md",
+    "7-Trimestre/Introducion a redes computacionales/TCP.md",
+    "7-Trimestre/Sistemas Distribuidos/Examen 1.md",
+    "7-Trimestre/Introducion a redes computacionales/23 Octubre 2025.md",
+    "Templates/Clases UAM.md",
+    "7-Trimestre/Desarrollo a Gran Escala/20 Octubre 2025.md",
+    "Sin título.png.md",
+    "7-Trimestre/Introducion a redes computacionales/Examen 1.md",
+    "GIT.md",
+    "7-Trimestre/Interfaz de usuario/Sin título.md",
+    "Sin título.png",
+    "Sin título.canvas",
+    "Sin título.base",
+    "0005-10-23.md",
+    "7-Trimestre/Introducion a redes computacionales/Ethernet.md",
+    "7-Trimestre/Interfaz de usuario/VUI.md",
+    "2035-10-21.md",
+    "Untitled.md",
+    "7-Trimestre/Sistemas Distribuidos/Servicios distribuidos básicos.md",
+    "Templates",
+    "7-Trimestre/Sistemas Distribuidos/16 Octubre 2025.md",
+    "7-Trimestre/Introducion a redes computacionales/Protocolos.md",
+    "7-Trimestre/Introducion a redes computacionales/Señales.md",
+    "7-Trimestre/Sistemas Distribuidos/Memoria Distribuida Compartida.md",
+    "7-Trimestre/Sistemas Distribuidos/Linda 2.md",
+    "7-Trimestre/Sistemas Distribuidos/Linda 1.md",
+    "7-Trimestre/Introducion a redes computacionales/Capa fisica.md",
+    "7-Trimestre/Interfaz de usuario/Piel.md",
+    "7-Trimestre/Interfaz de usuario/Conferencia Paul.md",
+    "7-Trimestre/Introducion a redes computacionales",
+    "7-Trimestre",
+    "7-Trimestre/Sistemas Distribuidos",
+    "Sin título 1.base",
+    "ULA/POTTENCIA",
+    "ULA/Aprendizaje Profundo y Redes Neuronales",
+    "ULA",
+    "7-Trimestre/Desarrollo a Gran Escala"
+  ]
 }
