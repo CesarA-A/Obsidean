@@ -4,7 +4,7 @@ tags:
   - Ethernet
 ---
 21 Octubre 2025
-
+    
 Conceptos
 
 - **Nodo**:Dispositivos conectados a la red.
