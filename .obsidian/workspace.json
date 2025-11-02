@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "709006cc0d3f9102",
+        "id": "8dd32e5572b52215",
         "type": "tabs",
         "children": [
           {
-            "id": "ab45be654366122b",
+            "id": "04b926b0dc04d378",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ULA/PottencIA/Bases y conceptos claves de la IA.md",
+                "file": "7-Trimestre/Introducion a redes computacionales/Kathara.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bases y conceptos claves de la IA"
+              "title": "Kathara"
             }
           }
         ]
@@ -180,8 +180,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ab45be654366122b",
+  "active": "04b926b0dc04d378",
   "lastOpenFiles": [
+    "7-Trimestre/Introducion a redes computacionales/Kathara.md",
     "ULA/PottencIA/Bases y conceptos claves de la IA.md",
     "ULA/PottencIA/Introduccion a la IA.md",
     "7-Trimestre/Introducion a redes computacionales/Capa de Internet-TCP.md",
@@ -215,7 +216,6 @@
     "Sin título.base",
     "0005-10-23.md",
     "7-Trimestre/Interfaz de usuario/VUI.md",
-    "2035-10-21.md",
     "7-Trimestre/Introducion a redes computacionales",
     "7-Trimestre",
     "7-Trimestre/Sistemas Distribuidos",
