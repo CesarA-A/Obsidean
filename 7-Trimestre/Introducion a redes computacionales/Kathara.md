@@ -6,20 +6,26 @@ tags:
 
 Para ver que versión de Kathara tenemos se usa kathara -v.
 
+## 💻 Guía Rápida de Comandos Kathara
 
-****
-|Comando|Función|
-|---|---|
-|`kathara lstart`|Inicia el laboratorio|
-|`kathara lstop`|Detiene el laboratorio|
-|`kathara lclean`|Elimina restos de interfaces|
-|`kathara lterm <nodo>`|Abre terminal en un nodo|
-|`kathara lshow`|Muestra nodos activos|
-|`kathara lcp <archivo> <nodo>:/ruta`|Copia archivo a un nodo|
-`kathara vstart -n pc –-eth 0:A`|Para crear una maquina virtual en donde pc es el nombre del nodo|
-|`kathara wipe -a`\Para terminar la maquina virtual en la terminal anfitrinoa
-|`kathara lpull`|Descarga un laboratorio desde GitHub|
-|`kathara lpush`|Sube tu laboratorio (si usas GitHub)|
+### 🔄 Gestión Básica del Laboratorio
+- **Iniciar:** `kathara lstart` 
+- **Detener:** `kathara lstop`
+- **Limpiar restos:** `kathara lclean`
+
+### 🖥️ Trabajar con Nodos
+- **Terminal en nodo:** `kathara lterm <nodo>`
+- **Ver nodos activos:** `kathara lshow`
+- **Copiar archivos:** `kathara lcp <archivo> <nodo>:/ruta/`
+
+### ⚡ Comandos Avanzados
+- **Crear MV:** `kathara vstart -n pc --eth 0:A`
+- **Limpiar total:** `kathara wipe -a` (¡Usar con precaución!)
+- **GitHub:** `kathara lpull` / `kathara lpush`
+
+
+En kathara se define el archivo **lab.conf** el cual se utiliza para la conexión de cada MV.
+Los **.startup** le define el nodo que tipo de configuración tendrá.
 
 
 # Docker
