@@ -64,4 +64,4 @@ Filtrado: Hacer que sea mas efectivo el mandado de  mensajes.
 - Permiten operar a velocidades diferentes,  auto negociación.
 - Algunos son administradores: Nos permiten hacer  grupos de interfaces los cuales estan encasulados.(Redes VLAN)
 - No existen colisiones.
-- 
+
