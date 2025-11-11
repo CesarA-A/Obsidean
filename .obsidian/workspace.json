@@ -13,12 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7-Trimestre/Introducion a redes computacionales/Funciones para Capa 2.md",
+                "file": "7-Trimestre/Introducion a redes computacionales/Capa de Internet.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Funciones para Capa 2"
+              "title": "Capa de Internet"
             }
           }
         ]
@@ -182,8 +183,11 @@
   },
   "active": "bf0dd5b451308d99",
   "lastOpenFiles": [
-    "7-Trimestre/Introducion a redes computacionales/23 Octubre 2025.md",
     "7-Trimestre/Introducion a redes computacionales/Funciones para Capa 2.md",
+    "7-Trimestre/Introducion a redes computacionales/Capa de Internet.md",
+    "7-Trimestre/Introducion a redes computacionales/Ejercicios.md",
+    "7-Trimestre/Introducion a redes computacionales/Ejercicios.md",
+    "7-Trimestre/Introducion a redes computacionales/23 Octubre 2025.md",
     "7-Trimestre/Desarrollo a Gran Escala/20 Octubre 2025.md",
     "7-Trimestre/Sistemas Distribuidos/Linda 2.md",
     "7-Trimestre/Sistemas Distribuidos/16 Octubre 2025.md",
@@ -210,9 +214,6 @@
     "Untitled.md",
     "7-Trimestre/Interfaz de usuario/Sin título.md",
     "Untitled.base",
-    "7-Trimestre/Sistemas Distribuidos/Servicios distribuidos básicos.md",
-    "7-Trimestre/Sistemas Distribuidos/Memoria Distribuida Compartida.md",
-    "7-Trimestre/Sistemas Distribuidos/Elementos de una aplicación distribuida.md",
     "Sin título.png",
     "Sin título.canvas",
     "Sin título.base",
