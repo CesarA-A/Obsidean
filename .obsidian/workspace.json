@@ -1,51 +1,54 @@
 {
   "main": {
-    "id": "a8d01e2b3aa9ede4",
+    "id": "7f6a39cbfc4a8473",
     "type": "split",
     "children": [
       {
-        "id": "596b63937a919c04",
+        "id": "84733cb0688769f6",
         "type": "tabs",
         "children": [
           {
-            "id": "4742fd1861ac2247",
+            "id": "41046216cc46a8d7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.10.3"
+            }
+          },
+          {
+            "id": "066a2ae82bc5a279",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ULA/POTTENCIA/Bases y conceptos claves de la IA.md",
+                "file": "8-Trimestre/Calidad y Pruebas/Flashcards.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bases y conceptos claves de la IA"
-            }
-          },
-          {
-            "id": "2d39b496144cd0a4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "title": "Flashcards"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a3065824d3c9902a",
+    "id": "3727a80c7d0bfa23",
     "type": "split",
     "children": [
       {
-        "id": "62b01b2794f904d3",
+        "id": "d11eb74219275190",
         "type": "tabs",
         "children": [
           {
-            "id": "ac6ec3c77278021d",
+            "id": "c9abde827e31192f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,7 +61,7 @@
             }
           },
           {
-            "id": "232eb34bb2c0e2f5",
+            "id": "4bfa87f051c79f7f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,11 +74,11 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Buscar"
             }
           },
           {
-            "id": "c0b9a89c86bbdd5a",
+            "id": "b821c9943a5af606",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -84,7 +87,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -92,20 +96,20 @@
     "collapsed": true
   },
   "right": {
-    "id": "11e1167764c6ee23",
+    "id": "f2949846e9b35463",
     "type": "split",
     "children": [
       {
-        "id": "2f78246e85bd8b44",
+        "id": "166a7166b69bd320",
         "type": "tabs",
         "children": [
           {
-            "id": "2a849a8c7177f6bf",
+            "id": "85dcf34e06aac604",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interfaz de usuario/Seminario.md",
+                "file": "8-Trimestre/Calidad y Pruebas/Flashcards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,25 +119,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Seminario"
+              "title": "Enlaces entrantes de Flashcards"
             }
           },
           {
-            "id": "1831d659bdd4e78a",
+            "id": "ea1b88fe94faefe8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bienvenido.md",
+                "file": "8-Trimestre/Calidad y Pruebas/Flashcards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Bienvenido"
+              "title": "Enlaces salientes de Flashcards"
             }
           },
           {
-            "id": "dd0937396ca2da2c",
+            "id": "5754a200ff9ad3c5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -148,28 +152,28 @@
             }
           },
           {
-            "id": "5a8d324d1dda60ce",
+            "id": "e7cffb2eedbc9204",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interfaz de usuario/Seminario.md",
+                "file": "8-Trimestre/Calidad y Pruebas/Flashcards.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Seminario"
+              "title": "Esquema de Flashcards"
             }
           },
           {
-            "id": "c3e8ecadd8305f85",
+            "id": "48a9aa9968e4c7d6",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "review-queue-list-view",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "SpacedRepIcon",
+              "title": "Cola de notas a revisar"
             }
           }
         ],
@@ -189,48 +193,16 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "flashcards-obsidian:Generate flashcards": false,
+      "obsidian-spaced-repetition:Revisar Tarjetas": false
     }
   },
-  "active": "4742fd1861ac2247",
+  "active": "066a2ae82bc5a279",
   "lastOpenFiles": [
-    "7-Trimestre/Introducion a redes computacionales/Examen dos.md",
-    "7-Trimestre/Introducion a redes computacionales/Ejercicios.md",
-    "7-Trimestre/Introducion a redes computacionales/Capa de Internet.md",
-    "ULA/POTTENCIA/Bases y conceptos claves de la IA.md",
-    "7-Trimestre/Introducion a redes computacionales/Capa de Internet-TCP.md",
-    "7-Trimestre/Introducion a redes computacionales/TCP.md",
-    "ULA/POTTENCIA/Introduccion a la IA.md",
-    "7-Trimestre/Introducion a redes computacionales/Mascara.md",
-    "7-Trimestre/Introducion a redes computacionales/Kathara.md",
-    "7-Trimestre/Introducion a redes computacionales/Funciones para Capa 2.md",
-    "7-Trimestre/Introducion a redes computacionales/Señales.md",
-    "7-Trimestre/Introducion a redes computacionales/Protocolos.md",
-    "7-Trimestre/Introducion a redes computacionales/Modelos de referencia.md",
-    "7-Trimestre/Introducion a redes computacionales/Introducción  a las redes.md",
-    "7-Trimestre/Introducion a redes computacionales/Examen 1.md",
-    "7-Trimestre/Introducion a redes computacionales/Ethernet.md",
-    "7-Trimestre/Introducion a redes computacionales/Capa fisica.md",
-    "7-Trimestre/Introducion a redes computacionales/23 Octubre 2025.md",
-    "7-Trimestre/Sistemas Distribuidos/Examen 1.md",
-    "Templates/Clases UAM.md",
-    "7-Trimestre/Desarrollo a Gran Escala/20 Octubre 2025.md",
-    "Sin título.png.md",
-    "GIT.md",
-    "7-Trimestre/Interfaz de usuario/Sin título.md",
-    "Sin título.png",
-    "Sin título.canvas",
     "Sin título.base",
-    "0005-10-23.md",
-    "7-Trimestre/Interfaz de usuario/VUI.md",
-    "Templates",
-    "7-Trimestre/Introducion a redes computacionales",
-    "7-Trimestre",
-    "7-Trimestre/Sistemas Distribuidos",
-    "Sin título 1.base",
-    "ULA/POTTENCIA",
-    "ULA/Aprendizaje Profundo y Redes Neuronales",
-    "ULA",
-    "7-Trimestre/Desarrollo a Gran Escala"
+    "8-Trimestre/Calidad y Pruebas/Flashcards.md",
+    "8-Trimestre/Calidad y Pruebas",
+    "8-Trimestre"
   ]
 }
